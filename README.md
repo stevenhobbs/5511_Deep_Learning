@@ -12,3 +12,6 @@ Three convolutional neural networks are trained below. Model 2 had the best pred
 
 ### Final Model
 Model 2 is saved as HCD_model2.h5
+
+### Predictions
+Predications on the test data are saved in "submission2.csv"
